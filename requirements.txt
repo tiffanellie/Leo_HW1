@@ -5,6 +5,7 @@ matplotlib
 seaborn
 lightgbm
 shap
-streamlit
 joblib
 torch
+streamlit>=1.30.0 
+altair==6.0.0
